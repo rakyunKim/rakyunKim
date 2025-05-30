@@ -42,6 +42,7 @@
 </div>
 
 <div align="center">
+    <img src="https://img.shields.io/badge/H2-%23016626.svg?style=for-the-badge&logo=h2database&logoColor=white" />
   <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />&nbsp
 </div>
 
