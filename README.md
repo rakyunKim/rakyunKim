@@ -102,7 +102,7 @@
   <a href="https://joms0308.tistory.com/">
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:joms0308@gmail.com">
+  <a href="https://rakyun.tistory.com/">
     <img
       src="https://img.shields.io/badge/joms0308@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
